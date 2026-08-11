@@ -4,7 +4,7 @@
 
 [Portfolio](https://muawiyah.up.railway.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/muawiyah-althaf) &nbsp;·&nbsp; [GitHub](https://github.com/Muawiyahh)
 
-<img src="./assets/banner.png" alt="Design. Build. Ship." width="100%" />
+<img src="./assets/banner.jpg" alt="Muawiyah Althaf — Full Stack AI Developer" width="100%" />
 
 ## About
 
