@@ -49,13 +49,6 @@ If you're evaluating me, I'm happy to **walk you through any project on a call**
 | **FitStudio** | Browser-based 3D virtual fitting room built with Three.js & React Three Fiber. |
 | **Dhanaya** | Data-driven profit-and-loss dashboard turning raw sales data into clear, actionable margins. |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" alt="Muawiyah's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Muawiyahh&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F0EAD6&text_color=C1BDA8&icon_color=D8B26A" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muawiyahh&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F0EAD6&text_color=C1BDA8" />
-</p>
-
 ## Get In Touch
 
 Open to freelance projects, client work, and full-time roles — automations, extensions, web apps and AI tools.
