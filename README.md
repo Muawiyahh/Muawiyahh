@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · Bangalore, India**
 
-[Portfolio](https://muawiyah.up.railway.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/muawiyah-althaf) &nbsp;·&nbsp; [GitHub](https://github.com/Muawiyahh)
+[Portfolio](https://muawiyahalthaf.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/muawiyah-althaf) &nbsp;·&nbsp; [GitHub](https://github.com/Muawiyahh)
 
 <img src="./assets/banner.jpg" alt="Muawiyah Althaf — Full Stack AI Developer" width="100%" />
 
@@ -18,7 +18,7 @@ When I'm not coding, I'm gaming (PS5 — Valorant & Fortnite), on a football pit
 
 Most of what I build is **client work that lives in private repositories** — extensions, dashboards and full platforms, often under NDA — so what's public here is only a slice of it.
 
-If you're evaluating me, I'm happy to **walk you through any project on a call**: share my screen, explain the architecture decisions, show the commits, and talk through trade-offs. Reach out via [LinkedIn](https://www.linkedin.com/in/muawiyah-althaf) or the email on my [portfolio](https://muawiyah.up.railway.app) and I'll set time aside.
+If you're evaluating me, I'm happy to **walk you through any project on a call**: share my screen, explain the architecture decisions, show the commits, and talk through trade-offs. Reach out via [LinkedIn](https://www.linkedin.com/in/muawiyah-althaf) or the email on my [portfolio](https://muawiyahalthaf.com) and I'll set time aside.
 
 ## What I Build
 
@@ -53,7 +53,7 @@ If you're evaluating me, I'm happy to **walk you through any project on a call**
 
 Open to freelance projects, client work, and full-time roles — automations, extensions, web apps and AI tools.
 
-- **Portfolio** — [muawiyah.up.railway.app](https://muawiyah.up.railway.app)
+- **Portfolio** — [muawiyahalthaf.com](https://muawiyahalthaf.com)
 - **LinkedIn** — [muawiyah-althaf](https://www.linkedin.com/in/muawiyah-althaf)
 - **GitHub** — [@Muawiyahh](https://github.com/Muawiyahh)
 - **Email** — muawiyahalthaf@gmail.com
