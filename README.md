@@ -23,7 +23,7 @@ If you're evaluating me, I'm happy to **walk you through any project on a call**
 ## What I Build
 
 - **Chrome extensions (MV3)** — production autofill tooling with saved profiles, an admin panel and a Supabase backend (*Hirerchy Extension*).
-- **Full-stack SaaS** — multi-role platforms with dashboards, a live application tracker and built-in messaging, designed and built end-to-end (*Hirerchy*).
+- **Full-stack SaaS** — multi-role platforms with dashboards, a live application tracker and built-in messaging, designed and built end-to-end for clients (*Hirerchy Platform*).
 - **AI-powered tools** — *Acadewin* generates and auto-marks exam questions, builds flashcards, and summarises documents using the Claude & OpenAI APIs.
 - **Automations** — turning repetitive, manual workflows into pipelines that run themselves.
 - **Data dashboards** — turning raw business data into clear, interactive P&L and analytics (*Dhanaya*).
@@ -44,7 +44,7 @@ If you're evaluating me, I'm happy to **walk you through any project on a call**
 | Project | What it does |
 | --- | --- |
 | **[Hirerchy Extension](https://chromewebstore.google.com/)** | One-click job-application autofill (Manifest V3) across Workday, Greenhouse & iCIMS. |
-| **[Hirerchy](https://hirerchy.com)** | End-to-end SaaS for a job-application agency — 3 roles, live application tracker, built-in messaging. |
+| **[Hirerchy Platform](https://hirerchy.com)** | Client build for Hirerchy, a job-application agency — end-to-end SaaS with 3 roles, live application tracker, built-in messaging. |
 | **[Acadewin](https://acadewin.com)** | AI exam-prep — generates & auto-marks questions, builds flashcards, and summarises documents. |
 | **FitStudio** | Browser-based 3D virtual fitting room built with Three.js & React Three Fiber. |
 | **Dhanaya** | Data-driven profit-and-loss dashboard turning raw sales data into clear, actionable margins. |
